@@ -24,12 +24,12 @@
  
     <table border="1">
         <tr>
-            <th>kategori</th>
-            <th>penerbit</th>
-            <th>judul buku</th>
-            <th>jumlah</th>
-            <th>pengarang</th>
-            <th>tahun terbit</th>
+            <th>KATEGORI</th>
+            <th>PENERBIT</th>
+            <th>JUDUL BUKU</th>
+            <th>JUMLAH</th>
+            <th>PENGARANG</th>
+            <th>TAHUN TERBIT</th>
         </tr>
         @foreach($buku as $a)
         <tr>
